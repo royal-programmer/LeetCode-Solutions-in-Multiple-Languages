@@ -1,3 +1,5 @@
+<img src="https://skillicons.dev/icons?i=cpp" align="right" />
+
 # C++ Default Soultion - Leetcode
 
 ```cpp
