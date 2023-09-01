@@ -1,33 +1,29 @@
 # 2518. Number of Great Partitions [Hard] - [Link](https://leetcode.com/problems/number-of-great-partitions/)
 
 ## Code Solution
-<details>
-<summary>Java</summary>
+<details><summary>Java</summary>
 <br>
   
-  [`Java-Solution-I`](./Java-Solution-I.md)
-  [`Java-Solution-II`](./Java-Solution-II.md)
+[`Java-Solution-I`](./Java-Solution-I.md)
+[`Java-Solution-II`](./Java-Solution-II.md)
 </details>
 
-<details>
-<summary>Python</summary>
+<details><summary>Python</summary>
 <br>
   
-  [`Python-Solution`](./Python-Solution.md)
+[`Python-Solution`](./Python-Solution.md)
 </details>
 
-<details>
-<summary>C++</summary>
+<details><summary>C++</summary>
 <br>
   
-  [`CPP-Solution`](./CPP-Solution.md)
+[`CPP-Solution`](./CPP-Solution.md)
 </details>
 
-<details>
-<summary>C</summary>
+<details><summary>C</summary>
 <br>
   
-  [`C-Solution`](./C-Solution.md)
+[`C-Solution`](./C-Solution.md)
 </details>
 
 ## Related Topics
