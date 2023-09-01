@@ -1,5 +1,6 @@
 # Java Default Solution - Leetcode
-```
+
+```java
 class Solution {
     public int countPartitions(int[] nums, int k) {
         int n = nums.length, mod = 1000000007;
