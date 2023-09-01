@@ -1,4 +1,4 @@
-# Java-Custom Input Handling: 
+# Java Custom Input Code
 
 > **_NOTE:_**  Clear the IDE and Paste the Solution for Custom Input.
 
