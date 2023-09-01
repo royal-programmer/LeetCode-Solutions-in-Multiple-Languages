@@ -1,5 +1,7 @@
 # Java-Custom Input Handling: 
 
+> **_NOTE:_**  Clear the IDE and Paste the Solution for Custom Input.
+
 ```
 import java.io.*;
 import java.util.*;
