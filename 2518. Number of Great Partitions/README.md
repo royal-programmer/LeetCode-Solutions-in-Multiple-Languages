@@ -8,17 +8,26 @@
   [`Java-Solution-I`](./Java-Solution-I.md)
   [`Java-Solution-II`](./Java-Solution-II.md)
 </details>
+
 <details>
 <summary>Python</summary>
 <br>
   
   [`Python-Solution`](./Python-Solution.md)
 </details>
+
 <details>
 <summary>C++</summary>
 <br>
   
   [`CPP-Solution`](./CPP-Solution.md)
+</details>
+
+<details>
+<summary>C</summary>
+<br>
+  
+  [`C-Solution`](./C-Solution.md)
 </details>
 
 ## Related Topics
