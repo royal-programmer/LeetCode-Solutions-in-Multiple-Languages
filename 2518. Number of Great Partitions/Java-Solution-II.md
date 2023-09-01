@@ -2,7 +2,7 @@
 
 > **_NOTE:_**  Clear the IDE and Paste the Solution for Custom Input.
 
-```
+```java
 import java.io.*;
 import java.util.*;
 
