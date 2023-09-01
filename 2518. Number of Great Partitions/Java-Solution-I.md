@@ -1,3 +1,5 @@
+<img src="https://skillicons.dev/icons?i=java" align="right" />
+
 # Java Default Solution - Leetcode
 
 ```java
