@@ -1,3 +1,5 @@
+<img src="https://skillicons.dev/icons?i=python" align="right" />
+
 # Python Default Solution - Leetcode
 
 ```python3
