@@ -1,65 +1,43 @@
 # [2518. Number of Great Partitions [Hard]](https://leetcode.com/problems/number-of-great-partitions/)
 
 
-<div class="dEI87" data-track-load="description_content"><p>You are given an <code>m x n</code> binary matrix <code>mat</code> of <code>1</code>'s (representing soldiers) and <code>0</code>'s (representing civilians). The soldiers are positioned <strong>in front</strong> of the civilians. That is, all the <code>1</code>'s will appear to the <strong>left</strong> of all the <code>0</code>'s in each row.</p>
+<div class="dEI87" data-track-load="description_content"><p>You are given an array <code>nums</code> consisting of <strong>positive</strong> integers and an integer <code>k</code>.</p>
 
-<p>A row <code>i</code> is <strong>weaker</strong> than a row <code>j</code> if one of the following is true:</p>
+<p><strong>Partition</strong> the array into two ordered <strong>groups</strong> such that each element is in exactly <strong>one</strong> group. A partition is called great if the <strong>sum</strong> of elements of each group is greater than or equal to <code>k</code>.</p>
 
-<ul>
-	<li>The number of soldiers in row <code>i</code> is less than the number of soldiers in row <code>j</code>.</li>
-	<li>Both rows have the same number of soldiers and <code>i &lt; j</code>.</li>
-</ul>
+<p>Return <em>the number of <strong>distinct</strong> great partitions</em>. Since the answer may be too large, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>
 
-<p>Return <em>the indices of the </em><code>k</code><em> <strong>weakest</strong> rows in the matrix ordered from weakest to strongest</em>.</p>
+<p>Two partitions are considered distinct if some element <code>nums[i]</code> is in different groups in the two partitions.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> mat = 
-[[1,1,0,0,0],
- [1,1,1,1,0],
- [1,0,0,0,0],
- [1,1,0,0,0],
- [1,1,1,1,1]], 
-k = 3
-<strong>Output:</strong> [2,0,3]
-<strong>Explanation:</strong> 
-The number of soldiers in each row is: 
-- Row 0: 2 
-- Row 1: 4 
-- Row 2: 1 
-- Row 3: 2 
-- Row 4: 5 
-The rows ordered from weakest to strongest are [2,0,3,1,4].
+<pre><strong>Input:</strong> nums = [1,2,3,4], k = 4
+<strong>Output:</strong> 6
+<strong>Explanation:</strong> The great partitions are: ([1,2,3], [4]), ([1,3], [2,4]), ([1,4], [2,3]), ([2,3], [1,4]), ([2,4], [1,3]) and ([4], [1,2,3]).
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> mat = 
-[[1,0,0,0],
- [1,1,1,1],
- [1,0,0,0],
- [1,0,0,0]], 
-k = 2
-<strong>Output:</strong> [0,2]
-<strong>Explanation:</strong> 
-The number of soldiers in each row is: 
-- Row 0: 1 
-- Row 1: 4 
-- Row 2: 1 
-- Row 3: 1 
-The rows ordered from weakest to strongest are [0,2,3,1].
+<pre><strong>Input:</strong> nums = [3,3,3], k = 4
+<strong>Output:</strong> 0
+<strong>Explanation:</strong> There are no great partitions for this array.
+</pre>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<pre><strong>Input:</strong> nums = [6,6], k = 2
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> We can either put nums[0] in the first partition or in the second partition.
+The great partitions will be ([6], [6]) and ([6], [6]).
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>m == mat.length</code></li>
-	<li><code>n == mat[i].length</code></li>
-	<li><code>2 &lt;= n, m &lt;= 100</code></li>
-	<li><code>1 &lt;= k &lt;= m</code></li>
-	<li><code>matrix[i][j]</code> is either 0 or 1.</li>
+	<li><code>1 &lt;= nums.length, k &lt;= 1000</code></li>
+	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
 </div>
 
