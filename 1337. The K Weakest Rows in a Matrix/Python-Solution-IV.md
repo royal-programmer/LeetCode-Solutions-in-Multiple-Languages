@@ -2,6 +2,9 @@
 
 # Python Default Solution - Leetcode
 
+![Static Badge](https://img.shields.io/badge/Time_Complexity-O(N_*_M_+_k_*_log(k))-blue?style=plastic)&emsp;
+![Static Badge](https://img.shields.io/badge/Space_Complexity-O(N)-blue?style=plastic)&emsp;
+
 ```python3
 class Solution:
     def kWeakestRows(self, mat: List[List[int]], k: int) -> List[int]:
