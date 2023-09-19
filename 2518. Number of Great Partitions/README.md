@@ -46,7 +46,7 @@ The great partitions will be ([6], [6]) and ([6], [6]).
 <details><summary>Java</summary>
 <br>
   
-[`Java-Solution-I`](./Java-Solution-I.md)
+[`Java-Solution-I`](./Java-Solution.md)
 [`Java-Solution-II`](./Java-Solution-II.md)
 </details>
 
