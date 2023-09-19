@@ -63,21 +63,27 @@ The rows ordered from weakest to strongest are [0,2,3,1].
 </ul>
 </div>
 
-
 ## Code Solution
+
+<!---
 <details><summary>Java</summary>
 <br>
   
 [`Java-Solution-I`](./Java-Solution-I.md)
 [`Java-Solution-II`](./Java-Solution-II.md)
 </details>
+-->
 
 <details><summary>Python</summary>
 <br>
   
-[`Python-Solution`](./Python-Solution.md)
+[`Python-Solution-I`](./Python-Solution-I.md)
+[`Python-Solution-II`](./Python-Solution-II.md)
+[`Python-Solution-III`](./Python-Solution-III.md)
+[`Python-Solution-IV`](./Python-Solution-IV.md)
 </details>
 
+<!---
 <details><summary>C++</summary>
 <br>
   
@@ -89,6 +95,7 @@ The rows ordered from weakest to strongest are [0,2,3,1].
   
 [`C-Solution`](./C-Solution.md)
 </details>
+-->
 
 ## Related Topics
 - [Array](https://leetcode.com/tag/array/)
