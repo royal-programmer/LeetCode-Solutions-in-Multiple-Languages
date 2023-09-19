@@ -46,26 +46,26 @@ The great partitions will be ([6], [6]) and ([6], [6]).
 <details><summary>Java</summary>
 <br>
   
-[`Java-Solution-I`](./Java-Solution.md)
+[`Java-Solution-I`](./Java-Solution-I.md)
 [`Java-Solution-II`](./Java-Solution-II.md)
 </details>
 
 <details><summary>Python</summary>
 <br>
   
-[`Python-Solution`](./Python-Solution.md)
+[`Python-Solution-I`](./Python-Solution-I.md)
 </details>
 
 <details><summary>C++</summary>
 <br>
   
-[`CPP-Solution`](./CPP-Solution.md)
+[`CPP-Solution-I`](./CPP-Solution-I.md)
 </details>
 
 <details><summary>C</summary>
 <br>
   
-[`C-Solution`](./C-Solution.md)
+[`C-Solution-I`](./C-Solution-I.md)
 </details>
 
 ## Related Topics
