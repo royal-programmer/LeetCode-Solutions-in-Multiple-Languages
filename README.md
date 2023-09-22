@@ -4,14 +4,15 @@
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square)![Java](https://img.shields.io/badge/Java-b07219?style=flat-square)![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square)![C](https://img.shields.io/badge/C-555555?style=flat-square)![CSharp](https://img.shields.io/badge/CSharp-178600?style=flat-square)![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square)![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square)![PHP](https://img.shields.io/badge/PHP-4F5D95?style=flat-square)![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square)![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square)![Dart](https://img.shields.io/badge/Dart-00B4AB?style=flat-square)![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square)![Ruby](https://img.shields.io/badge/Ruby-701516?style=flat-square)![Scala](https://img.shields.io/badge/Scala-c22d40?style=flat-square)![Rust](https://img.shields.io/badge/Rust-dea584?style=flat-square)![Racket](https://img.shields.io/badge/Racket-3c5caa?style=flat-square)![Erlang](https://img.shields.io/badge/Erlang-B83998?style=flat-square)![Elixir](https://img.shields.io/badge/Elixir-6e4a7e?style=flat-square)![My SQL](https://img.shields.io/badge/MySQL-yellow?style=flat-square)![MS SQL Server](https://img.shields.io/badge/MS--SQL--Server-grey?style=flat-square)![Oracle](https://img.shields.io/badge/Oracle-red?style=flat-square)![Pandas](https://img.shields.io/badge/Pandas-orange?style=flat-square)
-
 ![LeetCode Connect](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Froyal_programmer?&query=status&label=LeetCode-status&style=flat-square) &emsp;
 ![LeetCode Ranking](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Froyal_programmer?&query=ranking&label=Ranking&style=flat-square) &emsp;
 ![LeetCode Contribution Points](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Froyal_programmer?&query=contributionPoints&label=Contribution-points&style=flat-square) &emsp;
 ![LeetCode Acceptance Rate](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Froyal_programmer?&query=acceptanceRate&label=Acceptance-rate&style=flat-square) &emsp;
-![LeetCode Total Solved](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Froyal_programmer?&query=totalSolved&label=Total-Solved%20&style=flat-square)![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Froyal_programmer?&query=totalQuestions&style=flat-square&label=/&labelColor=blue) &emsp;
+![GitHub watchers](https://img.shields.io/github/watchers/royal-programmer/LeetCode-Code-Collection?label=Hits&style=flat-square) &emsp;
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/royal-programmer/LeetCode-Code-Collection?style=flat-square) &emsp;
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE) &emsp;
 
+![LeetCode Total Solved](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Froyal_programmer?&query=totalSolved&label=Total-Solved%20&style=flat-square)![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Froyal_programmer?&query=totalQuestions&style=flat-square&label=/&labelColor=blue) &emsp;
 ![LeetCode Easy](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Froyal_programmer?&query=easySolved&label=Easy&style=flat-square&color=green)![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Froyal_programmer?&query=totalEasy&label=/&labelColor=green&color=green&style=flat-square) &emsp;
 ![LeetCode Medium](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Froyal_programmer?&query=mediumSolved&label=Medium&style=flat-square&color=yellow)![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Froyal_programmer?&query=totalMedium&label=/&labelColor=yellow&color=yellow&style=flat-square) &emsp;
 ![LeetCode Hard](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Froyal_programmer?&query=hardSolved&label=Hard&style=flat-square&color=red)![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Froyal_programmer?&query=totalHard&label=/&labelColor=red&color=red&style=flat-square) &emsp;
@@ -21,6 +22,37 @@
 # LeetCode Solutions in Multiple Languages
 
 Welcome to the "LeetCode Solutions in Multiple Languages" repository! This repository is dedicated to providing comprehensive solutions to a wide range of LeetCode problems in various programming languages. Whether you're a beginner looking to learn and practice coding or an experienced programmer seeking efficient solutions, you'll find a wealth of resources here.
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3572A5?style=plastic)
+
+![Java](https://img.shields.io/badge/Java-b07219?style=plastic)
+![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=plastic)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=plastic)
+![C](https://img.shields.io/badge/C-555555?style=plastic)
+![CSharp](https://img.shields.io/badge/CSharp-178600?style=plastic)
+![C++](https://img.shields.io/badge/C++-f34b7d?style=plastic)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=plastic)
+![PHP](https://img.shields.io/badge/PHP-4F5D95?style=plastic)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=plastic)
+![Dart](https://img.shields.io/badge/Dart-00B4AB?style=plastic)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic)
+![Ruby](https://img.shields.io/badge/Ruby-701516?style=plastic)
+
+![Scala](https://img.shields.io/badge/Scala-c22d40?style=plastic)
+![Rust](https://img.shields.io/badge/Rust-dea584?style=plastic)
+![Racket](https://img.shields.io/badge/Racket-3c5caa?style=plastic)
+![Erlang](https://img.shields.io/badge/Erlang-B83998?style=plastic)
+![Elixir](https://img.shields.io/badge/Elixir-6e4a7e?style=plastic)
+![My SQL](https://img.shields.io/badge/MySQL-yellow?style=plastic)
+![MS SQL Server](https://img.shields.io/badge/MS--SQL--Server-grey?style=plastic)
+![Oracle](https://img.shields.io/badge/Oracle-red?style=plastic)
+![Pandas](https://img.shields.io/badge/Pandas-orange?style=plastic)
+
+</div>
 
 ## Key Features 📋
 
